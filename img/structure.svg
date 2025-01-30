@@ -1,0 +1,1661 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="2228.8433"
+   height="669.03192"
+   viewBox="0 0 589.71477 177.01469"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="sensor_layers.svg"
+   inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2">
+    <rect
+       x="213.66016"
+       y="42.238281"
+       width="246.16016"
+       height="76.300781"
+       id="rect324408" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient204713">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop204707" />
+      <stop
+         style="stop-color:#c1c1c1;stop-opacity:1"
+         offset="0.51112801"
+         id="stop204709" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="1"
+         id="stop204711" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient199883">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop199877" />
+      <stop
+         style="stop-color:#c1c1c1;stop-opacity:1"
+         offset="0.50984287"
+         id="stop199879" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="1"
+         id="stop199881" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient199799">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop199793" />
+      <stop
+         style="stop-color:#c1c1c1;stop-opacity:1"
+         offset="0.50984287"
+         id="stop199795" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="1"
+         id="stop199797" />
+    </linearGradient>
+    <rect
+       x="1393.1661"
+       y="125.13028"
+       width="386.05267"
+       height="176.86508"
+       id="rect74734" />
+    <rect
+       x="1363.9316"
+       y="22.190998"
+       width="503.5705"
+       height="194.40463"
+       id="rect70326" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path11958" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12079"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path11843" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DiamondSstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondSstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path11904" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient23975">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop23971" />
+      <stop
+         style="stop-color:#c1c1c1;stop-opacity:1"
+         offset="0.50984287"
+         id="stop24435" />
+      <stop
+         style="stop-color:#e4e4e4;stop-opacity:1"
+         offset="1"
+         id="stop23973" />
+    </linearGradient>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21074" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21068" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21056" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Send"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path21062" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker21308"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Send"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path21080" />
+    </marker>
+    <rect
+       x="2410.5271"
+       y="363.45288"
+       width="24.748737"
+       height="48.790367"
+       id="rect34276" />
+    <marker
+       inkscape:stockid="DotL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DotL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5369"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#ff8e3f;fill-opacity:0.784314;fill-rule:evenodd;stroke:#ff8e3f;stroke-width:1pt;stroke-opacity:0.784314"
+         transform="matrix(0.8,0,0,0.8,5.92,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5862"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#ff8e3f;fill-opacity:0.784314;fill-rule:evenodd;stroke:#ff8e3f;stroke-width:1pt;stroke-opacity:0.784314"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path5860"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient199799"
+       id="linearGradient24981"
+       gradientUnits="userSpaceOnUse"
+       x1="496.30295"
+       y1="150.82436"
+       x2="522.12744"
+       y2="125.09967"
+       gradientTransform="matrix(1.6885111,0,0,1.6885111,-722.06185,-211.74147)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient199883"
+       id="linearGradient24985"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6885111,0,0,1.6885111,-757.80217,-211.74147)"
+       x1="496.30295"
+       y1="150.82436"
+       x2="522.12744"
+       y2="125.09967" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient23975"
+       id="linearGradient24989"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.6885111,0,0,1.6885111,-794.43607,-211.74147)"
+       x1="496.30295"
+       y1="150.82436"
+       x2="522.12744"
+       y2="125.09967" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient204713"
+       id="linearGradient204591"
+       gradientUnits="userSpaceOnUse"
+       x1="152.41434"
+       y1="101.59646"
+       x2="152.54019"
+       y2="58.011681"
+       gradientTransform="translate(-15.274036)" />
+    <rect
+       x="148.95505"
+       y="92.621696"
+       width="48.050705"
+       height="47.008526"
+       id="rect5766" />
+    <rect
+       x="148.95505"
+       y="92.621696"
+       width="63.817329"
+       height="68.480316"
+       id="rect10244" />
+    <marker
+       style="overflow:visible"
+       id="marker11695"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path11411" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.25"
+     inkscape:cx="1114"
+     inkscape:cy="50"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="true"
+     inkscape:window-width="1850"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     showguides="false"
+     inkscape:pagecheckerboard="0"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="bottom_tpu 1"
+     transform="translate(5.5928574,-32.529694)">
+    <path
+       style="display:inline;fill:#4b4b4b;fill-opacity:0.295944;stroke:none;stroke-width:2.60133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 584.12193,99.187238 -23.69197,21.341032 -31.98604,-0.16356 -1.28226,-9.03634 -78.53564,-0.0381 43.20458,-40.902322 90.51942,0.50185 z"
+       id="path11448"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#4b4b4b;fill-opacity:0.295944;stroke:none;stroke-width:2.60133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 376.51197,102.79971 -23.69197,21.34103 -31.98604,-0.16356 -1.28226,-9.03634 -78.53564,-0.0381 43.20458,-38.785644 90.51942,0.50185 z"
+       id="path1071"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-25.903651,36.181898)"
+     style="display:inline">
+    <g
+       id="g7078-3"
+       transform="matrix(0.70530792,-0.66027514,1,0,149.65223,356.57978)"
+       style="stroke-width:1.23066"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path815-0-5-6"
+         d="m 469.5077,85.621027 c -0.55595,0.301543 -1.23379,0.809006 -1.23379,1.441467 0,0.632462 0.67784,1.139924 1.23379,1.441467 0.29653,0.160834 1.00333,0.132292 1.00333,0.132292 h 15.81261 l 4.83637,-3.98254 v -63.00874 h -3.80251 v 61.685823 l -2.46917,2.15794 h -14.3773 c 0,0 -0.7068,-0.02854 -1.00333,0.132291 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40018-7"
+         d="m 469.50772,90.912694 c -0.55595,0.301542 -1.23379,0.809005 -1.23379,1.441467 0,0.632461 0.67784,1.139924 1.23379,1.441467 0.29653,0.160835 1.00333,0.132292 1.00333,0.132292 h 18.45844 l 10.39262,-8.877331 V 21.644973 h -3.80251 v 62.082699 l -8.02542,7.052731 h -17.02313 c 0,0 -0.7068,-0.02854 -1.00333,0.132291 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40020-5"
+         d="m 469.50773,96.20436 c -0.55595,0.301543 -1.23379,0.809006 -1.23379,1.441467 0,0.63246 0.67784,1.13993 1.23379,1.44147 0.29653,0.16084 1.00333,0.13229 1.00333,0.13229 h 20.31053 L 507.56421,85.844338 V 21.644973 h -3.80251 v 62.876448 l -14.37542,11.550648 h -18.87522 c 0,0 -0.7068,-0.02854 -1.00333,0.132291 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40022-3"
+         d="m 469.50775,101.49602 c -0.55595,0.30154 -1.23379,0.80901 -1.23379,1.44147 0,0.63246 0.67784,1.13992 1.23379,1.44146 0.29653,0.16084 1.00333,0.1323 1.00333,0.1323 H 492.5414 L 515.76631,86.5058 V 21.644973 H 511.9638 V 85.18288 l -20.85771,16.18085 h -20.59501 c 0,0 -0.7068,-0.0285 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40026-5"
+         d="m 469.50777,106.78769 c -0.55595,0.30154 -1.23379,0.809 -1.23379,1.44147 0,0.63246 0.67784,1.13991 1.23379,1.44146 0.29653,0.16083 1.00333,0.1323 1.00333,0.1323 h 23.75011 l 29.7072,-22.371078 V 21.644973 h -3.80251 v 64.463949 l -27.34,20.546478 h -22.3148 c 0,0 -0.7068,-0.0285 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:#e89700;fill-opacity:1;stroke:none;stroke-width:1.23066;stroke-linecap:square;stop-color:#000000"
+         d="m 473.38328,84.604691 -6.96682,-0.009 -10.8943,8.644609 H 441.5022 v 8.64461 h 14.01996 l 10.8943,8.64461 6.96682,-0.0644 z"
+         id="path2364-6"
+         sodipodi:nodetypes="ccccccccc" />
+    </g>
+    <path
+       style="fill:#292929;fill-opacity:1;stroke:none;stroke-width:4.17171;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 489.03831,38.630949 536.02166,38.226789 572.5947,4.62861 h -46.9833 z"
+       id="path17039"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path8298"
+       d="m 535.85854,78.299728 21.92884,-0.11577 11.65752,-11.38353 v -1.32292 l -33.58636,11.49931 z"
+       style="fill:#193d97;fill-opacity:1;stroke:none;stroke-width:0.97199;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path815-0-8-2"
+       d="m 535.85854,76.976818 21.92884,-0.11578 11.65752,-11.38353 -21.39963,-0.11577 z"
+       style="fill:#1c336e;fill-opacity:1;stroke:none;stroke-width:0.97199;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path8275"
+       d="m 551.82177,67.499898 10.69242,-0.045 2.139,-1.98676 v -1.05834 l -12.83142,2.0318 z"
+       style="fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path18573"
+       d="m 551.82177,66.441558 10.69242,-0.045 2.139,-1.98676 -10.69244,-0.045 z"
+       style="fill:#b8b8b8;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 590.56517,58.967559 -10.77551,10.826419 v 4.91335 l -18.19557,-0.003 v -4.79367 l 11.17887,-10.893279 z"
+       style="fill:#b4b4b4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.670883;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       id="path1559"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 590.56517,58.967559 -10.77551,10.826419 v 4.91335 l 10.77551,-11.08952 z"
+       style="fill:#d3d3d3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.670883;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       id="path1563"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       d="m 579.78966,69.793978 v 4.91335 l -18.19557,-0.003 v -4.79368 z"
+       style="fill:#d3a82e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.670883;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path1561"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       style="stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="translate(2.8348214,-3.0238095)"
+       id="g5034" />
+    <g
+       style="fill:#d1d1d1;fill-opacity:1;stroke:#717171;stroke-width:1.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       id="g5056"
+       transform="translate(1.915353,3.0930228)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.34177;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 559.67992,73.530988 c 2.8424,0.52223 2.96828,-1.38976 4.56767,-1.60535 1.48889,-0.2007 4.49604,0.31522 4.49604,0.31522"
+       id="path5851"
+       sodipodi:nodetypes="cac"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#d50000;stroke-width:1.34177;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 558.64793,74.540758 c 0,0 2.4542,0.54286 3.91007,-0.43052 1.95458,-1.30572 2.00712,-0.97915 3.09025,-1.19489 1.73863,-0.3463 5.31677,-0.129 5.31677,-0.129"
+       id="path4454"
+       sodipodi:nodetypes="csac"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Calibri;-inkscape-font-specification:Calibri;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion899"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri"><rect
+           id="rect901"
+           width="222.23357"
+           height="210.11172"
+           x="222.23357"
+           y="382.61618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri" /></flowRegion><flowPara
+         id="flowPara903" /></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot907"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22624053,0,0,0.22624053,468.09186,42.72261)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion909"
+         style="direction:rtl"><rect
+           id="rect911"
+           width="529.21045"
+           height="452.57974"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl" /></flowRegion><flowPara
+         id="flowPara913"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:end;text-anchor:end">NINA-B306 MCU on PCB with FPC connectors and 160 mAh LiPo battery</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.66767"
+       y="117.39487"
+       id="text1142" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4806"
+       style="font-style:normal;font-weight:normal;font-size:85.3333px;line-height:0.5;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.14024203,0,0,0.14024203,234.10786,-89.709008)"><flowRegion
+         id="flowRegion4808"
+         style="line-height:0.5"><rect
+           id="rect4810"
+           width="503.16183"
+           height="579.2431"
+           x="2170"
+           y="1795.2418"
+           style="line-height:0.5" /></flowRegion><flowPara
+         id="flowPara4812"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:42.6667px;line-height:0.5;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Bold'" /></flowRoot>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,30.016541,81.721486)"
+       id="text34274"
+       style="font-size:40px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;white-space:pre;shape-inside:url(#rect34276)" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 123.81576,57.971123 V 46.489638 l 6.00792,-4.487811 -12.01588,-4.487811 12.01588,-4.487811 -12.01588,-4.487811 12.01588,-4.487836 -12.01588,-4.487786 12.01588,-4.487811 -6.00792,-4.487836 V -0.5093856"
+       id="path22646"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 137.06581,32.694937 107.5802,19.739122"
+       id="path22648"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 87.181854,57.971123 V 46.489638 L 93.189814,42.001827 81.173932,37.514016 93.189814,33.026205 81.173932,28.538394 93.189814,24.050558 81.173932,19.562772 93.189814,15.074961 87.181854,10.587125 V -0.5093856"
+       id="path22650"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 100.43194,32.694937 70.946328,19.739122"
+       id="path22652"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 159.55612,57.971123 V 46.489638 l 6.00795,-4.487811 -12.01589,-4.487811 12.01589,-4.487811 -12.01589,-4.487811 12.01589,-4.487836 -12.01589,-4.487786 12.01589,-4.487811 -6.00795,-4.487836 V -0.5093856"
+       id="path22658"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 172.8062,32.694937 143.32057,19.739122"
+       id="path22660"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#e4e4e4;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.181854,57.971123 h 72.495576 l 21.06783,0.188911"
+       id="path22662"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 102.37167,79.191876 V 67.710365 L 108.37963,63.222554 96.363744,58.734743 108.37963,54.246932 96.363744,49.759121 108.37963,45.27126 96.363744,40.783449 108.37963,36.295614 102.37167,31.807828 V 20.711342"
+       id="path21360"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 115.62175,53.91564 86.136104,40.959825"
+       id="path21362"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 78.987852,53.91564 49.502237,40.959825"
+       id="path21366"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 138.11207,79.191876 V 67.710365 l 6.00792,-4.487811 -12.01588,-4.487811 12.01588,-4.487811 -12.01588,-4.487811 12.01588,-4.487861 -12.01588,-4.487811 12.01588,-4.487835 -6.00792,-4.487786 V 20.711342"
+       id="path21372"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 151.36212,53.91564 121.87647,40.959825"
+       id="path21374"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 70.822495,57.971123 H 87.181854"
+       id="path395797"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 159.30123,79.380787 138.2334,79.191876 H 65.737784 l 1.7e-5,-11.481511 6.00792,-4.487811 -12.01588,-4.487811 12.01588,-4.487811 -12.01588,-4.487811 12.01588,-4.487861 -12.01588,-4.487811 12.01588,-4.487835 -6.00792,-4.487786 V 20.711342"
+       id="path22327"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.18196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 80.210795,101.40755 V 89.926066 L 86.218754,85.438255 74.202835,80.950469 86.218754,76.462583 74.202835,71.974822 86.218754,67.486936 74.202835,62.999125 86.218754,58.511339 80.210795,54.023503 v -11.09646"
+       id="path20325"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 93.460884,76.131365 63.975235,63.175501"
+       id="path20752"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 56.826975,76.131365 27.341333,63.175501"
+       id="path21350"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.18196;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 115.95116,101.40755 V 89.926066 l 6.00796,-4.487811 -12.01588,-4.487786 12.01588,-4.487886 -12.01588,-4.487761 12.01588,-4.487886 -12.01588,-4.487811 12.01588,-4.487786 -6.00796,-4.487836 v -11.09646"
+       id="path21356"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend)"
+       d="M 129.20121,76.131365 99.715604,63.175501"
+       id="path21358"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.182;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.1403,101.59646 -21.06776,-0.18891 H 43.576924 V 89.926066 L 49.58485,85.438255 37.568967,80.950469 49.58485,76.462583 37.568967,71.974822 49.58485,67.486936 37.568967,62.999125 49.58485,58.511339 43.576924,54.023503 v -11.09646"
+       id="path22325"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient24981);stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 115.95116,42.927043 159.55612,-0.5093856"
+       id="path24979"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient24985);stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 80.210795,42.927043 123.81573,-0.5093856"
+       id="path24983"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient24989);stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 43.576924,42.927043 87.181854,-0.5093856"
+       id="path24987"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="97.220566"
+       y="-12.515937"
+       id="text22114"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan22112"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="97.220566"
+         y="-12.515937">D<tspan
+   style="font-size:6.42056px;baseline-shift:sub;stroke-width:0.264583"
+   id="tspan22110">2</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="134.7914"
+       y="-12.515937"
+       id="text26120"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan26118"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="134.7914"
+         y="-12.515937">D<tspan
+   style="font-size:6.42056px;baseline-shift:sub;stroke-width:0.264583"
+   id="tspan26116">1</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="170.24561"
+       y="-12.515937"
+       id="text26126"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan26124"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="170.24561"
+         y="-12.515937">D<tspan
+   style="font-size:6.42056px;baseline-shift:sub;stroke-width:0.264583"
+   id="tspan26122">0</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="72.349747"
+       y="-12.515937"
+       id="text31552"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan31550"
+         style="font-size:9.87778px;stroke-width:0.264583"
+         x="72.349747"
+         y="-12.515937">...</tspan></text>
+    <g
+       id="g7078"
+       transform="matrix(-1,0,-0.70530792,0.66027514,1088.0624,20.136771)"
+       style="stroke-width:1.23066"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         style="fill:#e89700;fill-opacity:1;stroke:none;stroke-width:1.23066;stroke-linecap:square;stop-color:#000000"
+         d="m 523.19488,64.945222 -6.96682,-0.009 -10.8943,8.6446 H 491.3138 v 8.64461 h 14.01996 l 10.8943,8.64461 6.96682,-0.0644 z"
+         id="path2364"
+         sodipodi:nodetypes="ccccccccc" />
+      <path
+         sodipodi:nodetypes="aaacccca"
+         inkscape:connector-curvature="0"
+         id="path3736"
+         d="m 519.3193,65.961552 c -0.55595,0.30154 -1.23379,0.80901 -1.23379,1.44147 0,0.63246 0.67784,1.13992 1.23379,1.44147 0.29653,0.16083 1.00333,0.13229 1.00333,0.13229 h 2.87225 v -3.14752 h -2.87225 c 0,0 -0.7068,-0.0285 -1.00333,0.13229 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccca"
+         inkscape:connector-curvature="0"
+         id="path5018"
+         d="m 519.3193,71.253222 c -0.55595,0.30154 -1.23379,0.809 -1.23379,1.44147 0,0.63246 0.67784,1.13992 1.23379,1.44146 0.29653,0.16084 1.00333,0.13229 1.00333,0.13229 h 2.87225 v -3.14751 h -2.87225 c 0,0 -0.7068,-0.0285 -1.00333,0.13229 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccca"
+         inkscape:connector-curvature="0"
+         id="path5020"
+         d="m 519.3193,76.544892 c -0.55595,0.30154 -1.23379,0.809 -1.23379,1.44146 0,0.63246 0.67784,1.13993 1.23379,1.44147 0.29653,0.16083 1.00333,0.13229 1.00333,0.13229 h 2.87225 v -3.14752 h -2.87225 c 0,0 -0.7068,-0.0285 -1.00333,0.1323 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccca"
+         inkscape:connector-curvature="0"
+         id="path5022"
+         d="m 519.3193,81.836552 c -0.55595,0.30154 -1.23379,0.809 -1.23379,1.44146 0,0.63246 0.67784,1.13993 1.23379,1.44147 0.29653,0.16083 1.00333,0.13229 1.00333,0.13229 h 2.87225 v -3.14752 h -2.87225 c 0,0 -0.7068,-0.0285 -1.00333,0.1323 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccca"
+         inkscape:connector-curvature="0"
+         id="path5024"
+         d="m 519.3193,87.128222 c -0.55595,0.30154 -1.23379,0.809 -1.23379,1.44146 0,0.63246 0.67784,1.13993 1.23379,1.44147 0.29653,0.16083 1.00333,0.13229 1.00333,0.13229 h 2.87225 v -3.14752 h -2.87225 c 0,0 -0.7068,-0.0285 -1.00333,0.1323 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path5026"
+         d="m 491.3138,75.165312 h 17.0839 l 10.31559,-7.38572 v -0.90852 l -10.31559,7.38573 h -17.0839 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path6138"
+         d="m 491.3138,76.752822 h 17.0839 l 10.62152,-3.57304 v -0.90852 l -10.62152,3.57304 h -17.0839 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path815-0-5"
+         d="m 520.9068,65.961552 c -0.43416,0.31232 -0.70462,0.90665 -0.70462,1.44147 0,0.53482 0.27046,1.12914 0.70462,1.44147 0.27384,0.19699 1.00333,0.13229 1.00333,0.13229 h 14.22511 l 4.83637,-3.98254 0.44528,-84.64745 h -3.80251 l -0.44528,83.32453 -2.46917,2.15794 h -12.7898 c 0,0 -0.72949,-0.0647 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path6140"
+         d="m 491.3138,78.340322 h 17.0839 10.40667 v -0.90852 H 508.3977 491.3138 Z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40018"
+         d="m 520.90682,71.253222 c -0.43416,0.31232 -0.70462,0.90664 -0.70462,1.44147 0,0.53482 0.27046,1.12914 0.70462,1.44146 0.27384,0.197 1.00333,0.13229 1.00333,0.13229 h 16.87094 l 10.39262,-8.87733 0.44528,-85.04432 h -3.80251 l -0.44528,83.72141 -8.02542,7.05273 h -15.43563 c 0,0 -0.72949,-0.0647 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path6142"
+         d="m 491.3138,79.927822 h 17.0839 l 10.43122,3.74136 v -0.90851 l -10.43122,-3.74137 h -17.0839 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40020"
+         d="m 520.90683,76.544882 c -0.43416,0.31233 -0.70462,0.90665 -0.70462,1.44147 0,0.53483 0.27046,1.12915 0.70462,1.44147 0.27384,0.197 1.00333,0.13229 1.00333,0.13229 h 18.72303 l 16.74262,-13.37525 0.44528,-85.83807 h -3.80251 l -0.44528,84.51516 -14.37542,11.55064 h -17.28772 c 0,0 -0.72949,-0.0647 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path6144"
+         d="m 491.3138,81.515312 h 17.0839 l 10.15217,7.54075 v -0.90851 l -10.15217,-7.54075 h -17.0839 z"
+         style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40022"
+         d="m 520.90685,81.836542 c -0.43416,0.31232 -0.70462,0.90665 -0.70462,1.44147 0,0.53482 0.27047,1.12914 0.70462,1.44146 0.27384,0.197 1.00333,0.1323 1.00333,0.1323 H 542.353 l 23.22491,-18.00545 0.44528,-86.49953 h -3.80251 l -0.44528,85.17661 -20.85771,16.18085 h -19.00751 c 0,0 -0.72949,-0.0647 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="aaacccccccca"
+         inkscape:connector-curvature="0"
+         id="path40026"
+         d="m 520.90687,87.128212 c -0.43416,0.31232 -0.70462,0.90665 -0.70462,1.44147 0,0.53482 0.27047,1.12914 0.70462,1.44146 0.27384,0.197 1.00333,0.1323 1.00333,0.1323 h 22.16261 l 29.7072,-22.37107 0.44528,-87.42558 h -3.80251 l -0.44528,86.10266 -27.34,20.54647 h -20.7273 c 0,0 -0.72949,-0.0647 -1.00333,0.13229 z"
+         style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:1.17553;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path815-0-8-2-7"
+       d="m 537.78067,75.026008 4.34243,-0.045 6.37232,-5.69092 v -1.05834 l -10.71475,5.73597 z"
+       style="fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path18571"
+       d="m 537.78067,73.967678 4.34243,-0.045 6.37232,-5.69093 -4.34244,-0.045 z"
+       style="fill:#b8b8b8;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1073"
+       d="m 358.8108,50.188001 c -0.0906,0.36708 -0.0612,0.81464 0.57126,0.81464 0.63246,0 1.61801,-0.44756 2.31167,-0.81464 0.36998,-0.19579 0.83995,-0.66248 0.83995,-0.66248 l 11.15276,-10.44067 -0.57141,-3.19333 h -84.17541 l -2.68194,2.5107 h 82.85249 l 0.41642,1.63033 -10.14043,9.49297 c 0,0 -0.52705,0.46669 -0.57536,0.66248 z"
+       style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1075"
+       d="m 364.10248,50.187981 c -0.0906,0.36708 -0.0612,0.81465 0.57126,0.81465 0.63246,0 1.61801,-0.44757 2.31167,-0.81465 0.36998,-0.19579 0.83995,-0.66247 0.83995,-0.66247 l 13.01888,-12.18765 -1.54733,-6.86199 h -84.57229 l -2.68194,2.51071 h 83.24937 l 1.39234,5.29898 -12.00655,11.23995 c 0,0 -0.52705,0.46668 -0.57536,0.66247 z"
+       style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1077"
+       d="m 369.39415,50.187981 c -0.0906,0.36708 -0.0612,0.81464 0.57127,0.81464 0.63246,0 1.61801,-0.44756 2.31167,-0.81464 0.36998,-0.19579 0.83994,-0.66248 0.83994,-0.66248 l 14.32518,-13.41053 -1.56654,-11.05474 h -85.36604 l -2.68194,2.5107 h 84.04312 l 1.41155,9.49174 -13.31284,12.46283 c 0,0 -0.52706,0.46669 -0.57537,0.66248 z"
+       style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1079"
+       d="m 374.68582,50.187961 c -0.0906,0.36708 -0.0612,0.81465 0.57127,0.81465 0.63246,0 1.61801,-0.44757 2.31166,-0.81465 0.36999,-0.19579 0.83996,-0.66247 0.83996,-0.66247 l 15.53816,-14.54607 -1.62474,-15.33483 h -86.02749 l -2.68194,2.5107 h 84.70457 l 1.46974,13.77183 -14.52582,13.59837 c 0,0 -0.52701,0.46668 -0.57537,0.66247 z"
+       style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1081"
+       d="m 379.97751,50.187951 c -0.0906,0.36708 -0.0612,0.81464 0.57127,0.81464 0.63246,0 1.61799,-0.44756 2.31166,-0.81464 0.36997,-0.19579 0.83996,-0.66247 0.83996,-0.66247 l 16.75114,-15.68161 -1.41836,-19.614925 h -86.95354 l -2.68194,2.510705 h 85.63062 l 1.26336,18.05192 -15.7388,14.73391 c 0,0 -0.52702,0.46668 -0.57537,0.66247 z"
+       style="fill:#f5f4eb;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 381.39615,49.918501 v -10.5453"
+       id="path2380"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 281.82909,40.855831 V 15.493871"
+       id="path5206"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 360.58792,-1.6369883 13.61577,-13.6157657 h 7.5509"
+       id="path45295"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#343434;fill-opacity:1;stroke:none;stroke-width:4.17171;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 281.42835,31.660081 46.98335,-0.40416 36.57304,-33.5981743 h -46.9833 z"
+       id="path1087"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 332.05006,67.687083 h -4.99851 l -7.9375,-7.937497"
+       id="path18674"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e89700;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stop-color:#000000"
+       d="m 311.45119,49.168461 6.97317,-0.006 4.7972,5.70782 h 14.01996 l -6.09711,5.707815 h -14.01996 l -16.99142,5.70783 -6.9214,-0.0425 z"
+       id="path1107"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccca"
+       inkscape:connector-curvature="0"
+       id="path1109"
+       d="m 314.60995,49.839511 c 0.34327,0.1991 0.66319,0.53417 0.21711,0.95177 -0.44608,0.4176 -1.48184,0.75266 -2.25047,0.95177 -0.40997,0.10619 -1.09664,0.0873 -1.09664,0.0873 h -2.87225 l 2.21997,-2.07823 h 2.87225 c 0,0 0.72691,-0.0188 0.91003,0.0873 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccca"
+       inkscape:connector-curvature="0"
+       id="path1111"
+       d="m 310.87769,53.333471 c 0.34327,0.1991 0.6632,0.53417 0.21711,0.95177 -0.44608,0.4176 -1.48183,0.75266 -2.25046,0.95176 -0.40997,0.1062 -1.09664,0.0873 -1.09664,0.0873 h -2.87225 l 2.21997,-2.07822 h 2.87225 c 0,0 0.7269,-0.0188 0.91002,0.0873 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccca"
+       inkscape:connector-curvature="0"
+       id="path1113"
+       d="m 307.14544,56.827431 c 0.34327,0.1991 0.66319,0.53416 0.21711,0.951755 -0.44608,0.4176 -1.48184,0.75267 -2.25047,0.95177 -0.40996,0.10619 -1.09663,0.0873 -1.09663,0.0873 h -2.87225 l 2.21997,-2.078225 h 2.87225 c 0,0 0.7269,-0.0188 0.91002,0.0874 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccca"
+       inkscape:connector-curvature="0"
+       id="path1115"
+       d="m 303.41319,60.321376 c 0.34327,0.1991 0.66319,0.53417 0.21711,0.95176 -0.44608,0.4176 -1.48184,0.75267 -2.25046,0.95177 -0.40997,0.10619 -1.09664,0.0873 -1.09664,0.0873 h -2.87225 l 2.21997,-2.07823 h 2.87225 c 0,0 0.7269,-0.0188 0.91002,0.0873 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccca"
+       inkscape:connector-curvature="0"
+       id="path1117"
+       d="m 299.68092,63.815346 c 0.34327,0.1991 0.6632,0.53416 0.21712,0.95176 -0.44608,0.41759 -1.48184,0.75266 -2.25047,0.95176 -0.40996,0.1062 -1.09664,0.0873 -1.09664,0.0873 h -2.87225 l 2.21998,-2.07823 h 2.87225 c 0,0 0.7269,-0.0188 0.91001,0.0874 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1119"
+       d="m 336.12396,55.916531 h -17.0839 l -5.10638,-4.87661 0.64079,-0.59987 5.10637,4.87661 h 17.0839 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1121"
+       d="m 335.00428,56.964721 h -17.0839 l -8.10143,-2.35919 0.64079,-0.59987 8.10143,2.35919 h 17.0839 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1125"
+       d="m 333.8846,58.012906 h -17.0839 -10.40667 l 0.64079,-0.599865 h 10.40667 17.0839 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1129"
+       d="m 332.76493,59.061096 h -17.0839 l -13.07003,2.47032 0.64078,-0.59986 13.07003,-2.47034 h 17.0839 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccccc"
+       inkscape:connector-curvature="0"
+       id="path1133"
+       d="m 331.64526,60.109276 h -17.0839 l -15.47073,4.97897 0.64078,-0.59987 15.47073,-4.97897 h 17.0839 z"
+       style="fill:#fff732;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 296.43195,64.604986 V 56.091451"
+       id="path2793"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 310.66273,50.946771 v -8.51354"
+       id="path2801"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 317.35971,-2.3802863 V -18.217253"
+       id="path3132"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1123"
+       d="m 313.02246,40.843681 c 0.21388,0.20622 0.0652,0.59864 -0.31206,0.95177 -0.37721,0.35313 -1.06685,0.74554 -1.7213,0.95177 -0.41277,0.13006 -1.09663,0.0873 -1.09663,0.0873 h -14.22511 l -2.02745,-2.62957 59.25723,-55.890609 h 3.80251 l -58.32417,55.017119 0.94716,1.42483 h 12.7898 c 0,0 0.77512,-0.0427 0.91002,0.0874 z"
+       style="fill:#d8d7cf;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1137"
+       d="m 298.09338,54.819501 c 0.21388,0.20622 0.0652,0.59864 -0.31206,0.95177 -0.37721,0.35313 -1.06686,0.74554 -1.72129,0.95176 -0.41279,0.13007 -1.09664,0.0873 -1.09664,0.0873 h -22.16261 l -13.92871,-14.77101 61.21667,-57.724939 h 3.80251 l -60.2836,56.851449 12.84841,13.56632 h 20.7273 c 0,0 0.77512,-0.0427 0.91002,0.0873 z"
+       style="fill:#d8d7cf;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 376.10448,49.918501 v -10.5453"
+       id="path2787"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 370.81281,49.918501 v -10.5453"
+       id="path2789"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 365.52114,49.918501 v -10.5453"
+       id="path2791"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 352.06627,63.545883 V 58.069946"
+       id="path18672"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e89700;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stop-color:#000000"
+       d="m 360.52794,37.045711 -4.92275,4.60002 0.96077,7.19323 -9.88838,9.257025 h 8.64461 l 9.88838,-9.257025 16.32845,-7.19323 4.84936,-4.60002 z"
+       id="path1083"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 299.92876,61.381536 V 52.868001"
+       id="path2795"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1135"
+       d="m 301.82566,51.325541 c 0.21388,0.20622 0.0652,0.59864 -0.31206,0.95177 -0.37721,0.35313 -1.06686,0.74554 -1.72129,0.95176 -0.41279,0.13007 -1.09665,0.0874 -1.09665,0.0874 h -20.44282 l -10.52552,-11.88855 60.56352,-57.113489 h 3.80251 l -59.63045,56.239999 9.44522,10.68382 h 19.00751 c 0,0 0.77513,-0.0427 0.91003,0.0873 z"
+       style="fill:#d8d7cf;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 303.36408,57.722196 V 49.208661"
+       id="path2797"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1131"
+       d="m 305.55793,47.831591 c 0.21387,0.20623 0.0651,0.59864 -0.31206,0.95177 -0.37722,0.35313 -1.06686,0.74555 -1.7213,0.95177 -0.41279,0.13007 -1.09664,0.0873 -1.09664,0.0873 H 283.7049 l -7.30895,-8.83134 60.09699,-56.676749 h 3.80251 l -59.16393,55.803259 6.22866,7.6266 h 17.28772 c 0,0 0.77513,-0.0427 0.91003,0.0874 z"
+       style="fill:#d8d7cf;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 307.17625,54.270731 v -8.51354"
+       id="path2799"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="aaacccccccca"
+       inkscape:connector-curvature="0"
+       id="path1127"
+       d="m 309.29019,44.337641 c 0.21388,0.20622 0.0652,0.59863 -0.31206,0.95177 -0.37721,0.35313 -1.06685,0.74554 -1.7213,0.95176 -0.41278,0.13007 -1.09663,0.0873 -1.09663,0.0873 h -16.87094 l -4.13137,-5.86148 59.53715,-56.152649 h 3.80251 l -58.60409,55.279169 3.05107,4.65674 h 15.43563 c 0,0 0.77513,-0.0427 0.91003,0.0874 z"
+       style="fill:#d8d7cf;fill-opacity:1;stroke:none;stroke-width:0.955204;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 364.98474,10.84888 V -18.217253"
+       id="path3031"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.2;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:0.4, 0.8;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 328.39578,40.855831 V 15.493871"
+       id="path3233"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot16892"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22624053,0,0,0.22624053,221.90129,13.602031)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion16888"
+         style="direction:rtl"><rect
+           id="rect16886"
+           width="581.42432"
+           height="447.76016"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'"
+         id="flowPara154816">Flex PCBs   </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'"
+         id="flowPara158438" /></flowRoot>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot19764"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22624053,0,0,0.22624053,359.96304,-69.655261)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion19760"
+         style="direction:rtl"><rect
+           id="rect19758"
+           width="552.74207"
+           height="117.7925"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl;stroke-width:1" /></flowRegion><flowPara
+         id="flowPara19762"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:end;text-anchor:end">Piezoresistive sheet (Velostat™)</flowPara></flowRoot>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,31.496508,-68.711592)"
+       id="text70324"
+       style="font-size:48px;line-height:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:end;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect70326);fill:#959595;fill-opacity:0.294118;stroke:#000000;stroke-width:1.88976;stop-color:#000000" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot116848"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22624053,0,0,0.22624053,284.88074,29.892726)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion116844"
+         style="direction:rtl"><rect
+           id="rect116842"
+           width="511.5369"
+           height="443.74429"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl;stroke-width:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:end;text-anchor:end"
+         id="flowPara124612">Top and bottom electrodes       (Bemis™ 3914 100µm TPU + DuPont™ PE874™ ink) </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:end;text-anchor:end"
+         id="flowPara116872" /></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 306.49819,84.65887 H 272.39551 V 60.908293"
+       id="path148282"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 394.04716,78.441365 V 46.162207"
+       id="path148421"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path179085"
+       d="m 544.78696,75.204938 9.6341,-0.045 6.37232,-5.69092 v -1.05834 l -16.00642,5.73597 z"
+       style="fill:#d1d1d1;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path179087"
+       d="m 544.78696,74.146608 9.6341,-0.045 6.37232,-5.69093 -9.63411,-0.045 z"
+       style="fill:#b8b8b8;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path179188"
+       d="m 546.37446,73.617438 7.51743,-0.045 5.31399,-4.63259 -7.51744,-0.045 z"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.514868;stop-color:#000000"
+       id="path179626"
+       ry="0.7201246"
+       rx="0.80349433"
+       cy="76.790794"
+       cx="578.78815"
+       transform="matrix(1,0,-0.33257925,0.94307531,0,0)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path179920"
+       d="m 549.54946,71.500768 h 3.2841 l 2.46788,-2.0317 h -3.28411 z"
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.687688;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.996078"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="display:inline;fill:#cbcbcb;fill-opacity:1;stroke:none;stroke-width:2.60133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 396.50425,44.450803 -3.94988,3.55793 c -0.50781,-3.33263 -0.0898,-2.49105 1.09671,-4.06616 2.1442,-0.98952 2.15005,-0.81567 2.85317,0.50823 z"
+       id="path182213"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:url(#linearGradient204591);stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       d="m 204.11461,55.65011 -43.26803,47.90861 -28.41762,2.64211 50.83681,-50.55072"
+       id="path200036"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot202494"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.15138445,-0.16812948,0.16812948,0.15138445,39.897593,144.48466)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion202488"
+         style="direction:rtl"><rect
+           id="rect202486"
+           width="581.42432"
+           height="447.76016"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif'"
+         id="flowPara202492">DEMUX</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#c1c1c1;stroke-width:1.18196;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 202.26264,79.191876 H 182.68368"
+       id="path206380"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#c1c1c1;stroke-width:1.23301;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.26264,140.2163 v -11.98093 l 6.26928,-4.68304 -12.5386,-4.68298 12.5386,-4.68311 -12.5386,-4.68299 12.5386,-4.68311 -12.5386,-4.68304 12.5386,-4.682994 -6.26928,-4.68306 v -11.57917"
+       id="path1403"
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#c1c1c1;stroke-width:1.23301;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 202.26264,140.2163 h -9.46869"
+       id="path1438"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#c1c1c1;stroke-width:1.23301;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 211.7313,140.2163 h -9.46866"
+       id="path1637"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.64986571,0,0,0.64986571,65.515187,43.664172)"
+       id="text5764"
+       style="font-size:15.1997px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;word-spacing:-3.25708px;white-space:pre;shape-inside:url(#rect5766)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="152.87351"
+         y="106.68082"
+         id="tspan1641">1.4<tspan
+   dx="3.2570801"
+   id="tspan1637"> </tspan><tspan
+   dx="-3.2570801"
+   id="tspan1639">k</tspan>Ω</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.64986571,0,0,0.64986571,110.29361,44.717522)"
+       id="text10242"
+       style="font-size:15.1997px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;letter-spacing:-3.23266px;white-space:pre;shape-inside:url(#rect10244)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="173.16873"
+         y="106.68082"
+         id="tspan1647"><tspan
+           style="font-style:italic;font-weight:500;-inkscape-font-specification:'CMU Serif Medium Italic'"
+           id="tspan1643">V</tspan><tspan
+           style="font-size:9.77125px;baseline-shift:sub"
+           id="tspan1645">A </tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.711406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker11695)"
+       d="m 213.13619,134.91976 c 0,0 6.70867,-9.31578 6.41438,-26.10717 -0.22911,-13.071982 -6.41438,-22.299832 -6.41438,-22.299832"
+       id="path11203"
+       sodipodi:nodetypes="csc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87778px;line-height:1.25;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="209.63164"
+       y="73.98774"
+       id="text206823"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan206821"
+         style="font-size:9.87778px;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="209.63164"
+         y="73.98774">A<tspan
+   style="font-size:6.42056px;baseline-shift:sub;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+   id="tspan206819">0</tspan></tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot264265"
+       style="font-style:normal;font-weight:normal;font-size:43.0849px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22624053,0,0,0.22624053,24.925578,-86.709712)"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><flowRegion
+         id="flowRegion264259"
+         style="direction:rtl"><rect
+           id="rect264257"
+           width="555.43555"
+           height="74.763573"
+           x="113.13708"
+           y="212.91055"
+           style="direction:rtl" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:43.0849px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';text-align:center;text-anchor:middle"
+         id="flowPara264263"> 3.<flowSpan
+   style="letter-spacing:7.01687px"
+   id="flowSpan363722">3V</flowSpan><flowSpan
+   style="word-spacing:-11.6948px"
+   id="flowSpan369142"> </flowSpan>or Hi-Z</flowPara></flowRoot>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 176.1838,-21.626166 v -3.37137 H 64.044047 v 2.707756"
+       id="path268927"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 87.181853,-0.50938611 95.074545,-8.339417"
+       id="path388215"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 123.81573,-0.5093856 7.89269,-7.8300309"
+       id="path388589"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 159.55612,-0.5093856 7.89269,-7.8300309"
+       id="path388591"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 558.64472,83.069827 v 6.691956"
+       id="path389141"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 584.64492,80.115121 v 2.987789 h -52.0004 v -2.987789"
+       id="path389143"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c1c1c1;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 49.378425,79.191876 H 65.737784"
+       id="path395245"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="M 27.217565,101.40755 H 43.576924"
+       id="path395697"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 183.26577,55.65011 7.89269,-7.830031"
+       id="path419965"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#e4e4e4;stroke-width:1.182;stroke-miterlimit:4;stroke-dasharray:2.364, 2.364;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+       d="m 204.11461,55.65011 7.89269,-7.830031"
+       id="path419967"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_network.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="top_tpu"
+     style="display:inline"
+     transform="translate(5.5928574,-32.529694)">
+    <path
+       style="fill:#4b4b4b;fill-opacity:0.294118;stroke:none;stroke-width:2.60133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 442.05446,152.54171 35.32224,-0.4147 20.60383,-19.7277 -6.6941,-7.63398 57.26581,-54.187342 h -57.34331 l -66.37747,63.516242 z"
+       id="path815-0-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_collapsed.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#959595;fill-opacity:0.294118;stroke:none;stroke-width:2.60133;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 234.4445,129.69583 35.32224,-0.4147 20.60383,-19.7277 -6.6941,-7.63398 57.26581,-54.187329 H 283.59897 L 217.2215,111.24835 Z"
+       id="path1145"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/idlab403/OneDriveWork/Doctoraat/Publications/Journals/DecodingEmotions(QQ)/sensor_exploded.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
